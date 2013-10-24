@@ -1,6 +1,5 @@
 package com.fxsession.utils;
 
-
 /**
  * @author Dmitry Vulf
  * 

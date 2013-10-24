@@ -4,7 +4,6 @@ package com.fxsession.utils;
  * Singleton 
  */
 
-
 import java.io.File;
 import java.io.IOException;
 
